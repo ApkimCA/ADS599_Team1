@@ -1,4 +1,4 @@
-# From Data to Justice: Analyzing San Diego Community Review Board on Police Practice Cases for Insights and Predictive Modeling
+# From Data to Justice: Analyzing San Diego Community Review Board on Police Practice Cases for Insights and Predictive Modeling
 
 ## Team members:
 
