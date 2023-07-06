@@ -28,7 +28,7 @@ Files that are labeled “bwc” (body worn camera) lists police officers “pid
 
 ## Methods/Models used:
 
-Predictive Modeling.
+Predictive Modeling
 
 ## Programming Language(s):
 
