@@ -33,31 +33,31 @@ Files that are labeled “bwc” (body worn camera) lists police officers “pid
 
 ## Methods/Models used:
 
-+AUC-ROC Curve
++ AUC-ROC Curve
 
-+Data Acquisition
++ Data Acquisition
 
-+Data Aggregation
++ Data Aggregation
 
-+Data Cleaning
++ Data Cleaning
 
-+Decision Tree
++ Decision Tree
 
-+Exploratory Data Analysis (EDA)
++ Exploratory Data Analysis (EDA)
 
-+Feature Engineering
++ Feature Engineering
 
-+K-Nearest Neighbors
++ K-Nearest Neighbors
 
-+Logistic Regression
++ Logistic Regression
 
-+Predictive Modeling
++ Predictive Modeling
 
-+Random Forest
++ Random Forest
 
-+Support Vector Machine (SVM)
++ Support Vector Machine (SVM)
 
-+Variable Encoding
++ Variable Encoding
 
 ## Programming Language(s):
 Python through Visual Studio Code, SQL connection.
