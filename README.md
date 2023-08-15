@@ -3,11 +3,11 @@
 
 ## Team members:
 
-(*)Benjamin Earnest
++ Benjamin Earnest
 
-*Andrew Kim
+Andrew Kim
 
-*Grigor Tashchyan
+Grigor Tashchyan
 
 ## Objective:
 
