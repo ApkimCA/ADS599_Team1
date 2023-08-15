@@ -3,7 +3,7 @@
 
 ## Team members:
 
-*Benjamin Earnest
+(*)Benjamin Earnest
 
 *Andrew Kim
 
