@@ -32,18 +32,31 @@ Files that are labeled “allegations” contain a total of eight variables, wit
 Files that are labeled “bwc” (body worn camera) lists police officers “pid” per complaint and assesses whether officers had a body worn camera on or off during the incident under review.
 
 ## Methods/Models used:
+
 +AUC-ROC Curve
+
 +Data Acquisition
+
 +Data Aggregation
+
 +Data Cleaning
+
 +Decision Tree
+
 +Exploratory Data Analysis (EDA)
+
 +Feature Engineering
+
 +K-Nearest Neighbors
+
 +Logistic Regression
+
 +Predictive Modeling
+
 +Random Forest
+
 +Support Vector Machine (SVM)
+
 +Variable Encoding
 
 ## Programming Language(s):
