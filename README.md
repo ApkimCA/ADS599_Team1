@@ -19,8 +19,7 @@ The objective of this project is to bridge the gap between the City of San Diego
 https://data.sandiego.gov/datasets/crb-cases/
 
 ## Data set(s) used:
-The Complaints Evaluated by the Commission on Police Practices data sets were made available from the City of San Diego’s public website in CSV format and can be accessed at the following link. 
-https://data.sandiego.gov/datasets/crb-cases/
+The Complaints Evaluated by the Commission on Police Practices data sets were made available from the City of San Diego’s public website in CSV format.
 
 ## Description of data set(s):
 The data features 12 csv files and includes all cases and incidents involving officer-involved shootings, in-custody deaths, and additional incidents that are transparent and accountable to the San Diego community the Commission on Police Practices (CPP) reviewed since the launch of FY in 2019 through 2022. In each dataset, the variable “id” represents a police case number that involves a single or multiple officers per complaint. The “pid” variable labels officers being investigated towards a case “id” as anonymous person id. 
