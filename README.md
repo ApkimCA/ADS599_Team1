@@ -33,7 +33,6 @@ Files that are labeled “bwc” (body worn camera) lists police officers “pid
 
 ## Methods/Models used:
 
-+ AUC-ROC Curve
 
 + AUC-ROC Curve
 
